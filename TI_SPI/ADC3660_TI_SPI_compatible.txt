@@ -1,0 +1,25 @@
+{ signal: [
+  ['ADC3660 signals',
+   
+    { name: "sampling clock", wave: 'p....|........|........' },
+    { name: "DCLK",           wave: 'P....|........|........' },
+    { name: "DA6",            wave: 'x7777|77778888|8888x...', data: 'I15 I14 I13 I12 I3 I2 I1 I0 Q15 Q14 Q13 Q12 Q3 Q2 Q1 Q0' },
+    { name: "DB6",            wave: 'x6666|66663333|3333x...', data: 'I15 I14 I13 I12 I3 I2 I1 I0 Q15 Q14 Q13 Q12 Q3 Q2 Q1 Q0' },
+    { name: "FCLK",           wave: '01...|....0...|....1...' },
+  ],
+  {},
+    { name: "NSS_TI",         wave: '10...|........|...10...' },
+  {},
+  ['TI SPI',
+    { name: "DCLK",           wave: 'P....|........|........' },
+    { name: "DA6_DELAYED",    wave: 'xxx77|77777788|888888x.', data: 'I15 I14 I13 I12 I3 I2 I1 I0 Q15 Q14 Q13 Q12 Q3 Q2 Q1 Q0' },
+    { name: "DB6_DELAYED",    wave: 'xxx66|66666633|333333x.', data: 'I15 I14 I13 I12 I3 I2 I1 I0 Q15 Q14 Q13 Q12 Q3 Q2 Q1 Q0' },
+    { name: "NSS_DELAYED",    wave: '0.10.|........|.....10.' },
+  ],
+
+ ],
+  head:{
+   text:'ADC3660 pin signals made compatible with TI SPI mode',
+  },
+   
+}
