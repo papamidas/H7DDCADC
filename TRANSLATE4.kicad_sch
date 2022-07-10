@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "H7DDCADC")
+    (date "2022-07-10")
+    (rev "initial")
+    (company "papamidas DM1CR")
+    (comment 1 "SPI level translator 1.8V to 3.3V")
+  )
+
   (lib_symbols
     (symbol "Device:R" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 2.032 0 90)
@@ -543,7 +551,7 @@
   (symbol (lib_id "power:GND") (at 138.43 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5c5c7aec-deaa-40be-ad66-79c47d68674d)
-    (property "Reference" "#PWR?" (id 0) (at 138.43 109.22 0)
+    (property "Reference" "#PWR076" (id 0) (at 138.43 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 138.43 107.95 0))
@@ -559,13 +567,13 @@
   (symbol (lib_id "Device:R") (at 119.38 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6567b268-4985-4675-86d4-ac81c81d6e29)
-    (property "Reference" "R?" (id 0) (at 121.92 63.4999 0)
+    (property "Reference" "R22" (id 0) (at 121.92 63.4999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0R" (id 1) (at 121.92 66.0399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 117.602 64.77 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 117.602 64.77 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 119.38 64.77 0)
@@ -578,7 +586,7 @@
   (symbol (lib_id "Logic_LevelTranslator:TXB0104D") (at 138.43 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 91f9e272-e0fe-4ba1-ab1f-aa5c61ec6252)
-    (property "Reference" "U?" (id 0) (at 140.4494 99.06 0)
+    (property "Reference" "U13" (id 0) (at 140.4494 99.06 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TXB0104D" (id 1) (at 140.4494 101.6 0)
