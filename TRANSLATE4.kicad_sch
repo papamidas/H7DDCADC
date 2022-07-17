@@ -493,6 +493,10 @@
     (uuid f82f53c8-7ac8-46ad-841e-e79fb0d97beb)
   )
 
+  (text "TI suffix D = SOIC-14" (at 161.29 102.87 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4861b359-da64-490a-93b1-337b9acc7329)
+  )
   (text "Datasheet citation:\nThe typical output impedance during output transition is 70 Ω at VCCO = 1.2 V to 1.8 V,\n50 Ω at VCCO = 1.8 V to 3.3 V, and 40 Ω at VCCO = 3.3 V to 5 V"
     (at 106.68 116.84 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))

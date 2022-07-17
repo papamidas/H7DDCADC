@@ -848,7 +848,7 @@
   )
 
   (no_connect (at 195.58 39.37) (uuid 12c65738-0225-48f4-8672-0000b4cb8f06))
-  (no_connect (at 243.84 44.45) (uuid 12c65738-0225-48f4-8672-0000b4cb8f06))
+  (no_connect (at 243.84 44.45) (uuid 12c65738-0225-48f4-8672-0000b4cb8f07))
   (no_connect (at 121.92 80.01) (uuid 162b5b58-32d2-4810-bf0b-a743a9bb56ed))
   (no_connect (at 121.92 54.61) (uuid 2881b16f-9b95-4d0f-aae8-f18dc06e2414))
   (no_connect (at 121.92 85.09) (uuid 908f8058-f18e-4794-8f26-b9e7a0a95f81))
@@ -1315,10 +1315,15 @@
     (uuid ff4d0f91-85ba-4c44-9bfe-007d56fa7d51)
   )
 
-  (text "SN74AUC2G34DBV (= SOT23)\nSN74AUC1G08DBV (= SOT23)\nSN74AUC1G74DCT (= SM8)\nSN74AUC1G74DCU (= VSSOP)\nSN74AUC2G79DCT (= SM8)\nSN74AUC2G79DCU (=VSSOP)\n"
-    (at 119.38 26.67 0)
+  (text "TI suffix DBV = SOT23\nTI suffix DCK = SC70\nTI suffix DCT = SM8 (SSOP, 0.65 mm pitch)\nTI suffix DCU = VSSOP (MSOP, 0.5 mm pitch)"
+    (at 185.42 22.86 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5685e93b-f4e3-4b3b-8a70-ce670211a075)
+  )
+  (text "Output decoupling resistors connected to all ADC pins,\neven to NC pins, for easier later upgrade to ADC3664 etc."
+    (at 104.14 45.72 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid cf862fbc-da1c-4d29-a2cf-fd0b3c09a775)
   )
   (text "AUC family: made for 50..65 Ohms TL impedance" (at 234.95 27.94 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -2228,7 +2233,7 @@
     (pin "1" (uuid 6ea64c31-0488-4643-91a8-ae6015c8eb32))
   )
 
-  (symbol (lib_id "74xGxx:74AUC2G34") (at 160.02 69.85 0) (unit 2)
+  (symbol (lib_id "74xGxx:74AUC2G34") (at 160.02 69.85 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a66f84b0-1aeb-4b9f-8582-c67d153aed9e)
     (property "Reference" "U4" (id 0) (at 163.83 66.04 0))
@@ -2355,7 +2360,7 @@
     (pin "1" (uuid f7da5717-56ee-4249-a7b4-d94aa05b064e))
   )
 
-  (symbol (lib_id "74xGxx:74AUC2G34") (at 160.02 57.15 0) (unit 1)
+  (symbol (lib_id "74xGxx:74AUC2G34") (at 160.02 57.15 0) (unit 2)
     (in_bom yes) (on_board yes)
     (uuid ba57cea8-5b60-4446-bb14-67c5d94248d7)
     (property "Reference" "U4" (id 0) (at 163.83 53.34 0))

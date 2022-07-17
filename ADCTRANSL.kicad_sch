@@ -452,6 +452,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 93cd2bca-ae3e-4504-b321-66ba592e024e)
   )
+  (text "NXP Suffix GW = TSSOP6 (SOT363-2, 0.65 mm pitch)" (at 119.38 132.08 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 9804e248-a115-4f26-b25b-d98f4523c2c0)
+  )
 
   (label "VCC" (at 142.24 62.23 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
