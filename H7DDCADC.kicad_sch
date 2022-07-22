@@ -1116,7 +1116,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0e3921bc-2c48-49f4-ae59-be5b29886563)
   )
-  (label "SP3_NNS_50" (at 191.77 33.02 0)
+  (label "SP3_NSS_50" (at 191.77 33.02 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 10aaa38f-22e8-44d7-8208-7d0847cc1bd6)
   )
@@ -3275,49 +3275,49 @@
       (reference "R6") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/ed095ff3-b1af-4001-bf59-d68ad7ef3289"
-      (reference "R7") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R7") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/d54c0731-b8c4-4021-8804-6c3c01de8f2f"
-      (reference "R8") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R8") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/2eb3d965-3dc5-45a2-901e-f2de9689248f"
-      (reference "R9") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R9") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/e5a3e45b-0b8e-496d-ab1d-a9755e69ac61"
-      (reference "R10") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R10") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/680ffb16-9f3a-4dd1-ae88-2fb80c87eb70"
-      (reference "R11") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R11") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/b168ed7f-2c63-4dbc-90bf-bf3adb3795ed"
-      (reference "R12") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R12") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/8828788e-df99-49a3-821d-754234d6a54f"
-      (reference "R13") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R13") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/1073e2ab-1f15-45c5-9f39-a4ed310932b4"
-      (reference "R14") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R14") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/a80327aa-cef0-4f3b-b4be-5dceece67053"
-      (reference "R15") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R15") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/ac2f6069-10bd-47b1-9da6-30ef05a3aac0"
-      (reference "R16") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R16") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/32581baf-7d40-40cc-afc9-7d4297c2f750"
-      (reference "R17") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R17") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/880c680a-7e6c-48f7-8226-9c3889b584d9"
-      (reference "R18") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R18") (unit 1) (value "200-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/b6d3e6b1-4fdb-4600-8339-e15317f74269"
-      (reference "R19") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R19") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/7b2842dc-85a2-45a3-ab4f-abecb6110de2"
-      (reference "R20") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R20") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/9b65c9d0-858c-4826-94e3-1e53a6bb86da/fcd2433f-19be-49b3-b61b-3fdc25a10a62"
-      (reference "R21") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R21") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/8fca96ea-0fc4-4094-a481-35d026d1c373/6567b268-4985-4675-86d4-ac81c81d6e29"
       (reference "R22") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0805_2012Metric")
@@ -3425,76 +3425,76 @@
       (reference "R56") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/0a91aba3-581f-4cf3-8fe2-af2eab28ce50"
-      (reference "R57") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R57") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/b54568ca-e973-4aed-af72-622f662d586b"
-      (reference "R58") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R58") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/14b13018-f02f-4b6d-9791-b4e10bdf0c29"
-      (reference "R59") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R59") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/e28477bd-9d2b-4f3e-b01c-c26b30ffae9b"
-      (reference "R60") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R60") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/02b0e525-7275-4ccc-83bf-8eb5057ca7d8"
-      (reference "R61") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R61") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/b4ad6b96-7300-4658-9e27-7ce394a39327"
-      (reference "R62") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R62") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/28d5d64e-c0d3-433f-a2d7-45260ff913d9"
-      (reference "R63") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R63") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/043bc31b-812c-4536-b6b4-2fbc8c22aba6"
-      (reference "R64") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R64") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/b4cfb00a-dfb2-458e-8fae-707ed01edc72"
-      (reference "R65") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R65") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/d162f297-8534-49cf-9526-9b42513a52de"
-      (reference "R66") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R66") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/e09cacfc-ce29-4db0-afac-962d3e43f477"
-      (reference "R67") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R67") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/0b5b33b2-e512-4a56-8bee-3332a0769802"
-      (reference "R68") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R68") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/0d4ce3fb-304e-4636-84a5-4f8b9e1b7cfa"
-      (reference "R69") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R69") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/8c93594f-1d27-45b4-b4b1-f22acf1c2cbe"
-      (reference "R70") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R70") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/d20ca654-8a35-426c-8e6f-ddd8b3204cf9"
-      (reference "R71") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R71") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/fa9df0d3-7d6e-48fd-a7ed-e5ff76e5097a"
-      (reference "R72") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R72") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/ebde0c9d-f3c3-4c18-a952-5d7bf84e7d43"
-      (reference "R73") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R73") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/f80fd3f9-ccb1-4bb9-8051-efc764ee57ff"
-      (reference "R74") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R74") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/37f7fbdd-2960-409c-ae15-662829fc8fa3"
-      (reference "R75") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R75") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/b4769639-cbcc-442e-a793-65692cd7bf9f"
-      (reference "R76") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R76") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/f8bd7f1b-a430-47b4-97fe-feed5341362c"
-      (reference "R77") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R77") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/15371a3e-a3c0-483c-926d-0b0d04cddfcc"
-      (reference "R78") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R78") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/5b63fdfe-51e5-4b61-9d32-794ffe1d7ac7"
-      (reference "R79") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R79") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/3efb8822-6f33-47f1-9e9a-3ca2edf3236d"
-      (reference "R80") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R80") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/122e007d-09cf-41df-aa00-651d17931819/2a4b599b-1d3c-48b3-b1d2-e120801c12f2"
       (reference "R81") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
@@ -3510,6 +3510,9 @@
     )
     (path "/122e007d-09cf-41df-aa00-651d17931819/1dda8262-0667-4dc0-a4f1-761fec18d3d8"
       (reference "R85") (unit 1) (value "0R-DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/3696ab9a-58a2-402b-981f-e4320ceb7998/fc03110b-90d6-4134-b0c6-79feef54482f"
+      (reference "R86") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/bc032803-6e13-40e3-b75e-9d4e30c15b64"
       (reference "TP1") (unit 1) (value "PDN") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
