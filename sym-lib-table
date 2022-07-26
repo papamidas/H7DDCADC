@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "DM1CR_Library")(type "KiCad")(uri "C:/Users/chrau/Google Drive/Amateurfunk/RadioDARC/ADC35xx_36xx/DM1CR_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "DM1CR_Library")(type "KiCad")(uri "C:/Users/chrau/Google Drive/Amateurfunk/RadioDARC/ADC35xx_36xx/DM1CR_Library.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "DM1CR_Library_loc")(type "KiCad")(uri "${KIPRJMOD}/DM1CR_Library.kicad_sym")(options "")(descr ""))
 )
