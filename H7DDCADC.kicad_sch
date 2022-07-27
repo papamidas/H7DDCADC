@@ -4174,7 +4174,7 @@
       (reference "U15") (unit 1) (value "74AUP1T97GW") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering")
     )
     (path "/61d71a71-8401-4c1b-bee0-f9ae49c1d7c2/4196e2fe-9d62-4630-89a8-7b7b0f1ef041"
-      (reference "U16") (unit 1) (value "NUCLEO144-H743ZI_DM1CR") (footprint "Module:ST_Morpho_Connector_144_STLink")
+      (reference "U16") (unit 1) (value "NUCLEO144-H743ZI_DM1CR") (footprint "H7DDCADC:ST_Morpho_Connector_144_STLink")
     )
     (path "/254d87be-0819-4e7b-932a-bc5104c7d382/ecba8db0-2ce8-4924-b33b-d307b3cc45d9"
       (reference "U17") (unit 1) (value "74AUP1T97GW") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering")

@@ -2050,7 +2050,7 @@
     (uuid 4196e2fe-9d62-4630-89a8-7b7b0f1ef041)
     (property "Reference" "U16" (id 0) (at 43.18 89.4205 90))
     (property "Value" "NUCLEO144-H743ZI_DM1CR" (id 1) (at 43.18 91.9605 90))
-    (property "Footprint" "Module:ST_Morpho_Connector_144_STLink" (id 2) (at 242.57 93.98 0)
+    (property "Footprint" "H7DDCADC:ST_Morpho_Connector_144_STLink" (id 2) (at 242.57 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.st.com/resource/en/user_manual/dm00244518-stm32-nucleo144-boards-stmicroelectronics.pdf" (id 3) (at 142.24 138.43 0)
